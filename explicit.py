@@ -1,0 +1,10 @@
+float_num=3.14
+int_num=int(float_num)
+print(int_num,type(int_num))
+print("----------------------------------")
+num_str="123"
+num=int(num_str)
+print(num,type(num))
+q=20
+e='19'
+print(type(e))
