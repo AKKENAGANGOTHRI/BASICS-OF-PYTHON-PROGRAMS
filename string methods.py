@@ -1,0 +1,13 @@
+#string methods
+print("good morning".capitalize())
+print("GOOD MORNING".casefold())
+print("sunday".center(12,"'"))
+print("Enjoy weekend".endswith('d'))
+print("python".index('o'))
+print("Programming".islower())
+print("programmimg".isupper())
+print(" ".isspace())
+print("holiday".title())
+print("programming is easy".upper())
+print("proGRmMinG".lower())
+print("python".replace('p','c'))

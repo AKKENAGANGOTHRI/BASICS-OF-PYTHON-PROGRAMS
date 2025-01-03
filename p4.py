@@ -1,0 +1,23 @@
+#tuple
+#'''tuple is a sequence of elements where more than one values can be stored
+#It is represented by using ()
+#it cannot be modified
+tuple1=(10,20,30,40,50,60)
+print(tuple1)
+print(type(tuple1))
+print("----------------------------------")
+print("accessing tuple elements using positive indexing:")
+print(tuple1[0])
+print(tuple1[1])
+print(tuple1[2])
+print(tuple1[3])
+print(tuple1[4])
+print(tuple1[5])
+print("------------------------------------------------")
+print("accessing tuple elements using negative indexing:")
+print(tuple1[-6])
+print(tuple1[-5])
+print(tuple1[-4])
+print(tuple1[-3])
+print(tuple1[-2])
+print(tuple1[-1])

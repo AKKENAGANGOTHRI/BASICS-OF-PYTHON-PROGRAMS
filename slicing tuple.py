@@ -1,0 +1,6 @@
+tuple=(11,22,33,44,1,2,3,4,5,5,10,15,20,25,30)
+print(tuple[0:4])
+print(tuple[4:])
+print(tuple[:4])
+print(tuple[:-1])
+print(tuple[::-1])

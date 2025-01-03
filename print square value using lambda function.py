@@ -1,0 +1,7 @@
+n=int(input("enter the integer:"))
+print("the suare value of the",n," is:")
+square_value=lambda a:print(a*a)
+square_value(n)
+print()
+print("the square values from 1 to ",n ," are :")
+list(map(lambda i:print(i*i),range(1,n+1)))
